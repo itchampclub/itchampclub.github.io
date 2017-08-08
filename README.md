@@ -1,2 +1,0 @@
-# itchampclub.github.io
-website
